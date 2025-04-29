@@ -10,6 +10,7 @@ def task1(): # Extract all phone numbers
     1234567890
     123-4567890
     123 456 7890
+    123-456-7890
     111-222-3333
     """
     print(p.findall(test))
@@ -50,4 +51,4 @@ def task4(): # Replace all special characters in a string with an underscore
     print(p.sub('_', test))
     #print(test)   
 
-task1()
+task2()
