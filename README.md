@@ -7,6 +7,6 @@ Clone the repo and navigate to the folder
 
    ```bash
    git clone https://github.com/suhailsameer/Regex_assign.git
-   cd Regex_assign&#8203;:contentReference[oaicite:12]{index=12}
+   cd Regex_assign
 
 
