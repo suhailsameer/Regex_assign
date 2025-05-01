@@ -1,6 +1,6 @@
 # Regex_assign
 
-This repository contains a Python program designed to test regular expressions (regex) over various test cases.&#8203;:contentReference[oaicite:2]{index=2}
+This repository contains a Python program designed to test regular expressions (regex) over various test cases.
 
 ### Running the Program
 Clone the repo and navigate to the folder
